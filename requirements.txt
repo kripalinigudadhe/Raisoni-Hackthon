@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+opencv-python
+numpy
+Pillow
+easyocr
+tensorflow
+reportlab
+pdf2image
+google-cloud-vision
